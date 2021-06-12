@@ -4,7 +4,7 @@ heroImage: https://avatars.githubusercontent.com/u/32671488?s=200&v=4
 heroText: DeepModeling
 tagline: 
 actions:
-  - text: Contribute to community
+  - text: Contribute to Community
     link: https://github.com/deepmodeling
     type: primary
 features:
