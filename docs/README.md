@@ -2,7 +2,7 @@
 home: true
 heroImage: https://avatars.githubusercontent.com/u/32671488?s=200&v=4
 heroText: DeepModeling
-tagline: 
+tagline: Define the future of scientific computing together
 actions:
   - text: Contribute to Community
     link: https://github.com/deepmodeling

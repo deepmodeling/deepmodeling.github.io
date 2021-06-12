@@ -6,7 +6,7 @@ module.exports = {
         '/': {
             lang: 'en-US',
             title: 'DeepModeling',
-            description: ''
+            description: 'Define the future of scientific computing together'
         },
     },
     head: [
