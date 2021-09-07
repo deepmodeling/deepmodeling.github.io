@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://avatars.githubusercontent.com/u/32671488?s=200&v=4
-heroText: DeepModeling
+heroText: Deep Modeling
 tagline: Define the future of scientific computing together
 actions:
   - text: Contribute to Community
@@ -14,5 +14,5 @@ features:
     details: A scientific description of the physical world
   - title: Computational Platforms
     details: A cutting-edge bridge between machine learning and physical modeling
-footer: Copyright © 2021 DeepModeling
+footer: Copyright © 2021 Deep Modeling
 ---
