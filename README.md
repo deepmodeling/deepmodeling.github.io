@@ -4,4 +4,4 @@
 
 ## For visitors
 
-Visit our website at https://deepmodeling.org/!
+Visit our website at https://deepmodeling.com/!

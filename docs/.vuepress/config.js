@@ -26,8 +26,8 @@ module.exports = {
                 navbar: [
                     { text: 'Home', link: '/' },
                     { text: 'Blog', link: '/blog/', target: '_blank' },
-                    { text: 'Tutorials', link: 'https://tutorials.deepmodeling.org/', target: '_blank' },
-                    { text: 'Docs', link: 'https://docs.deepmodeling.org/', target: '_blank' },
+                    { text: 'Tutorials', link: 'https://tutorials.deepmodeling.com/', target: '_blank' },
+                    { text: 'Docs', link: 'https://docs.deepmodeling.com/', target: '_blank' },
                     { text: 'Publications', link: '/blog/papers/', target: '_blank' },
                 ]
             },
